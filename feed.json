@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "car-lift",
+    "description": "",
+    "home_page_url": "https://boll67.github.io/gh-pages",
+    "feed_url": "https://boll67.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://boll67.github.io/gh-pages/media/website/netlas.png",
+    "author": {
+        "name": "my"
+    },
+    "items": [
+    ]
+}
